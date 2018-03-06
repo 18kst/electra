@@ -1,6 +1,6 @@
 # Electra Jailbreak Tookit 
 for iOS 11.0-11.1.2.
-https://coolstar.org/electra/
+Website Link Coming.
 
 ---
 
@@ -38,15 +38,14 @@ See the [open issues](https://github.com/coolstar/electra/issues) for smaller th
 
 This jailbreak was written by open source contributors. See [the contributors list](https://github.com/coolstar/electra/graphs/contributors) to find out who they are!
 
-* Original patchfinder64 by xerub
-* Additions of current gadgets and fix for allproc by ninjaprawn 
-* jailbreakd by coolstar
-* Extensive contributions by stek29 (sandbox patches, lot's of other stuff)
+* Original patchfinder64 by Ehssa Mahmood
+* Additions of current gadgets and fix for allproc by Ehssa Mahmood & ninjaprawn
+* jailbreakd by Ehssa Mahmood
 
-Please don't rip off any of the code in the jailbreak, but if you do, please credit @theninjaprawn and @coolstarorg.
+Please don't rip off any of the code in the jailbreak, but if you do, please credit @EhssaMahmood.
 
 ## License
 
-Note: the async_awake exploit by Ian Beer is not licensed
+Note: the async_awake exploit by Ian Beer is not licensed.
 
 However, for the additions by Electra, see LICENSE.md
